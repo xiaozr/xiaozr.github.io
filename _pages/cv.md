@@ -30,7 +30,7 @@ Teaching
 
 Leadership
 ======
-* Executive Committee Member and Information Secretary, The University Choir, HKUSTSU, 2021-2022
+* Executive Committee Member and Information Technology Secretary, The University Choir, HKUSTSU, 2021-2022
 
 Awards
 ======
