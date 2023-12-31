@@ -16,8 +16,8 @@ Education
 
 Research experience
 ======
-* Physics-Informed Adversarial Learning for Solving Computational Fluid Dynamics Problem, May. 2023- current
-* Efficient Real-Time Shortest Path Query on Dynamic Spatial Database, Feb. 2023- May. 2023
+* Physics-Informed Adversarial Learning for Solving Computational Fluid Dynamics Problem, May. 2023 - current
+* Efficient Real-Time Shortest Path Query on Dynamic Spatial Database, Feb. 2023 - May. 2023
 
 Work experience
 ======
