@@ -9,4 +9,4 @@ redirect_from:
 ---
 Welcome to my personal website!
 
-This website is under construction.
+I am a final-year student at Hong Kong University majoring in Computer Science.
