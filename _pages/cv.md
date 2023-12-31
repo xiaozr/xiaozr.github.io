@@ -17,7 +17,6 @@ Education
 Research experience
 ======
 * Physics-Informed Adversarial Learning for Solving Computational Fluid Dynamics Problem, May. 2023- current
-
 * Efficient Real-Time Shortest Path Query on Dynamic Spatial Database, Feb. 2023- May. 2023
 
 Work experience
@@ -32,3 +31,11 @@ Teaching
 Leadership
 ======
 * Executive Committee Member and Information Secretary, The University Choir, HKUSTSU, 2021-2022
+
+Awards
+======
+* University’s Scholarship for Continuing Undergraduate Students, 2021-2024
+* Reaching Out Award, HKSAR Government Scholarship Fund, 2022-2023
+* Bronze Medal, International Collegiate Programming Contest (ICPC), Asia Regional, 2021
+* First Prize in The 24th National Olympiad in Informatics in Provinces (NOIP) in China, 2018
+  
