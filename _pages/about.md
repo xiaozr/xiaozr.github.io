@@ -9,4 +9,4 @@ redirect_from:
 ---
 Welcome to my personal website!
 
-I am a final-year student at Hong Kong University majoring in Computer Science.
+I am a final-year student at The Hong Kong University of Science and Technology majoring in Computer Science.
