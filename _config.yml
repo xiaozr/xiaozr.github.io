@@ -11,9 +11,9 @@ title                    : "Ziruo Xiao"
 title_separator          : "-"
 name                     : &name "Ziruo Xiao"
 description              : &description "CS Undergrad Student"
-url                      : https://chloe-xxx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiaozr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Chloe-XXX/Chloe-XXX.github.io"
+repository               : "xiaozr/xiaozr.github.io"
 teaser                   : "teaser.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Chloe-XXX"
+  github           : "xiaozr"
   google_plus      :
   keybase          :
   instagram        :
