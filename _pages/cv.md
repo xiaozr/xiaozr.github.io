@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Computer Science, The Hong Kong University of Sciece and Technology (HKUST), 2020-2024
+* B.Eng. in Computer Science, The Hong Kong University of Science and Technology (HKUST), 2020-2024
 * Exchange Student at Swiss Federal Institute of Technology (ETH Zurich), 2022-23 Fall
 
 Research experience
