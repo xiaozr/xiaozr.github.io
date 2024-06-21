@@ -11,4 +11,4 @@ redirect_from:
 ---
 Welcome to my personal website!
 
-I am a final-year student at The Hong Kong University of Science and Technology majoring in Computer Science.
+I am a graduating student at The Hong Kong University of Science and Technology, majoring in Computer Science. I will start my Master's study at Carnegie Mellon University, majoring in Information Networking.
