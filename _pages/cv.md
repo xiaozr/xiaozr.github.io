@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Computer Science, The Hong Kong University of Science and Technology (HKUST), 2020-2024
+* M.S. in Information Networking, Carnegie Mellon University (CMU), 2024 Fall - 2026 Spring (expected)
+* B.Eng. in Computer Science, The Hong Kong University of Science and Technology (HKUST), 2020 Fall - 2024 Spring
 * Exchange Student at Swiss Federal Institute of Technology (ETH Zurich), 2022-23 Fall
 
 Research experience
