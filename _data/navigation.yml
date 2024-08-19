@@ -2,9 +2,10 @@
 main:
   - title: "CV"
     url: /cv/
+    
+#  - title: "Publications"
+#    url: /publications/
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Random"
-    url: /random/
+#  - title: "Random"
+#    url: /random/
+    
