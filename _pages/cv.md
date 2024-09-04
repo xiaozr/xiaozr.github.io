@@ -16,16 +16,16 @@ Education
 * M.S. in Information Networking, Carnegie Mellon University (CMU), 2024 Fall - 2026 Spring (expected)
 * B.Eng. in Computer Science, The Hong Kong University of Science and Technology (HKUST), 2020 Fall - 2024 Spring
 * Exchange Student at Swiss Federal Institute of Technology (ETH Zurich), 2022-23 Fall
+  
+Work experience
+======
+* Software Engineering Intern, Google Shanghai, Jun 2023 - Sept 2023
+* STEP Intern, Google Beijing, Jun 2022 - Aug 2022
 
 Research experience
 ======
 * Physics-Informed Adversarial Learning for Solving Computational Fluid Dynamics Problem, Jun. 2023 - May. 2024
 * Efficient Real-Time Shortest Path Query on Dynamic Spatial Database, Feb. 2023 - May. 2023
-
-Work experience
-======
-* Software Engineering Intern, Google Shanghai, Jun 2023 - Sept 2023
-* STEP Intern, Google Beijing, Jun 2022 - Aug 2022
   
 Teaching
 ======
