@@ -16,5 +16,5 @@ I am a Master's student at **Carnegie Mellon University**, majoring in **Informa
 Previously I did two software engineering internships at **Google** in **database infra related groups** (Data Warehouse @ GPay Data Platform & Indexing Engine @ Core Data). I also have experience in machine learning research (CV+Adversarial Learning, check my bachelor's [Final Year Project](https://github.com/DL-for-CFD/alpinn_for_submission)). I used to participate in programming contests (OI & ICPC) and have always enjoyed theoretical topics.
 
 <span style="color:green">
-I am currently actively seeking internship and project opportunities in software systems, especially related to database/data platform.
+I am currently actively seeking internship and project opportunities in software systems, especially related to database / data platform.
 </span>
