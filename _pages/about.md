@@ -11,8 +11,8 @@ redirect_from:
 ---
 Welcome to my personal website! My name is Ziruo Xiao, and you can call me by any combination of Chloe, Ziruo, and Xiao.
 
-I am an incoming Master's student at **Carnegie Mellon University**, majoring in **Information Networking** (Advanced Study Track), studying general computer systems related topics. I obtained my bachelor's degree in **Computer Science** from **The Hong Kong University of Science and Technology**.
+I am a Master's student at **Carnegie Mellon University**, majoring in **Information Networking** (Advanced Study Track), studying general computer systems related topics. I am expected to graduate in 2026 Spring. I obtained my bachelor's degree in **Computer Science** from **The Hong Kong University of Science and Technology**.
 
-Previously I did two software engineering internships at **Google** in **database infra related groups** (Data Warehouse @ GPay Data Platform & Indexing Engine @ Core Data). I also have experience in machine learning research (CV+Adversarial Learning, check my bachelor's Final Year Project [Adversarial Learning & Physics-Informed Neural Network for CFD](https://github.com/DL-for-CFD/alpinn_for_submission). I used to participate in programming contests (OI & ICPC) and have always enjoyed theoretical topics.
+Previously I did two software engineering internships at **Google** in **database infra related groups** (Data Warehouse @ GPay Data Platform & Indexing Engine @ Core Data). I also have experience in machine learning research (CV+Adversarial Learning, check my bachelor's Final Year Project [Adversarial Learning & Physics-Informed Neural Network for CFD](https://github.com/DL-for-CFD/alpinn_for_submission)). I used to participate in programming contests (OI & ICPC) and have always enjoyed theoretical topics.
 
-I am currently most interested in software system opportunities especially related to database/data platform.
+I am actively seeking internship and project opportunities in software systems, especially related to database/data platform.
