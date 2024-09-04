@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume in PDF](https://drive.google.com/file/d/1rQGjpdiVBZW4wXMRpm1Ref2njqlYRVDt/view?usp=sharing)
+
 Education
 ======
 * M.S. in Information Networking, Carnegie Mellon University (CMU), 2024 Fall - 2026 Spring (expected)
