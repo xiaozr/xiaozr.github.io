@@ -24,8 +24,8 @@ Work experience
 
 Research experience
 ======
-* Physics-Informed Adversarial Learning for Solving Computational Fluid Dynamics Problem, Jun. 2023 - May. 2024
-* Efficient Real-Time Shortest Path Query on Dynamic Spatial Database, Feb. 2023 - May. 2023
+* Physics-Informed Adversarial Learning for Solving Computational Fluid Dynamics Problem, Jun. 2023 - May. 2024, supervised by [Prof. Dit-Yan Yeung](https://sites.google.com/view/dyyeung)
+* Efficient Real-Time Shortest Path Query on Dynamic Spatial Database, Feb. 2023 - May. 2023, supervised by [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong)
   
 Teaching
 ======
