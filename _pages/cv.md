@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume in PDF](https://drive.google.com/file/d/1rQGjpdiVBZW4wXMRpm1Ref2njqlYRVDt/view?usp=sharing)
+[Resume in PDF](https://drive.google.com/file/d/1TLTs-hDe1GLndhCed7ng-Et9FKpwPh8B/view?usp=sharing)
 
 Education
 ======
