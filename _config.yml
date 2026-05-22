@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziruo (Chloe) Xiao"
+  name             : "Ziruo (Rola) Xiao"
   avatar           : "bio-photo.png"
-  bio              : "Computer Science Student, she/her"
+  bio              : 
   location         : "Pittsburgh, PA, USA"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "chloexiaozr@gmail.com"
+  email            : "ziruox@cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
